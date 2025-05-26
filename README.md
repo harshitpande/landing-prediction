@@ -6,3 +6,4 @@ Prediction of successful landing of first stage of Falcon 9 SpaceX rocket using 
 3. Performing Exploratory Data Analysis to gain insights from the data and prepare for training supervised models.
 4. Understanding data through SQL queries using SQLite library.
 5. Exploratory Data Analysis and Data Feature Engineering using Pandas and Matplotlib.
+6. Locations Analysis using Folium.
